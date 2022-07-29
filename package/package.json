@@ -1,0 +1,23 @@
+{
+  "name": "expressql-log",
+  "version": "1.0.0",
+  "description": "Express middleware package to generate a request log in sql to easily insert into a database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeff-w-hemphill/expressql-log.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeff-w-hemphill/expressql-log/issues"
+  },
+  "homepage": "https://github.com/jeff-w-hemphill/expressql-log#readme",
+  "dependencies": {
+    "date-fns": "^2.29.1",
+    "uuid": "^8.3.2"
+  }
+}
